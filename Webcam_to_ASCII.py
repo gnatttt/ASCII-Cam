@@ -1,5 +1,5 @@
 #UPDATED 11/19/22
-#reduced print lines portion to two lines, much more efficient
+#reduced print lines portion to one line, much more efficient
 
 import cv2 as cv
 import time
